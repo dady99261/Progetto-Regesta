@@ -1,0 +1,7 @@
+-Guida 
+Per utilizzare il software bisogna indicare il numero dell'ordine 
+che si desidera fare ed il mese in cui si è in modo da verificare 
+se ci sono degli sconti disponibili.Dopo aver inserito questi dati 
+bisogna cliccare il bottone che inizierà a calcolare le varie tariffe.
+Il risultato viene illustrato sulla destra ed viene invidenziato 
+il prezzo più basso,sarai comunque ingrado di visualizzare i tempi di spedizione.
